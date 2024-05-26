@@ -1,5 +1,6 @@
-2.An orphan process is created when its parent process terminates before the child process.
-Code:
+/*
+   2.Write a program to create an orphan process.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
