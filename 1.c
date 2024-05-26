@@ -1,3 +1,10 @@
+/*
+   1.Write a C program to create a main process named ‘parent_process’ having 3child processes 
+without any grandchildren processes.Trace parent and child processes in the process tree.
+Show that child processes are doing addition, subtraction and multiplication on two variables 
+initialized in the parent_process.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
