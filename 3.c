@@ -1,3 +1,6 @@
+/*
+3.Write a program to create a zombie process.
+*/ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
