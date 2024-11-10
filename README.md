@@ -49,13 +49,4 @@
 
 ## 20. IPC using shared memory
 
-## 21. CPU management like set_cpu(), get_cpu()
-
-## 22. Priority and Niceness
-
-## 23. Signal handling
-
-## 24. Stack smashing
-
-## 25. Page replacement algorithms (FIFO, LRU, OPT)
 
